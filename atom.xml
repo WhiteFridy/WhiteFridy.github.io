@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-05-09T03:24:05.993Z</updated>
+  <updated>2019-06-01T03:59:58.348Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>利用Hexo和GitHub搭建个人博客</title>
+    <link href="http://yoursite.com/2019/06/01/bloginstall/"/>
+    <id>http://yoursite.com/2019/06/01/bloginstall/</id>
+    <published>2019-06-01T03:38:25.000Z</published>
+    <updated>2019-06-01T03:59:58.348Z</updated>
+    
+    <content type="html"><![CDATA[<p>前期准备工作</p><p>安装hexo</p><blockquote><p>npm install -g hexo</p></blockquote><p>hexo初始化</p><p>在个人PC中新建一个文件夹作为将来存放自己的代码，并进入到该文件夹中</p><blockquote><p>cd 文件夹地址</p><p>hexo init       进行初始化</p></blockquote><p>hexo会自动下载一些文件到这个目录</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;前期准备工作&lt;/p&gt;
+&lt;p&gt;安装hexo&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;npm install -g hexo&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;hexo初始化&lt;/p&gt;
+&lt;p&gt;在个人PC中新建一个文件夹作为将来存放自己的代码，并进入到该文件夹中&lt;/p&gt;
+&lt;
+      
+    
+    </summary>
+    
+      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
+    
+    
+      <category term="Hexo GitHub" scheme="http://yoursite.com/tags/Hexo-GitHub/"/>
+    
+  </entry>
   
   <entry>
     <title>firstPage</title>
